@@ -1,0 +1,1 @@
+//6. Implement a 'BankAccount' class with private balance field, deposit(), withdraw(), and getBalance() methods.
